@@ -1,7 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: nizuohao
- * Date: 2018/2/1
- * Time: 23:44
- */
+@extends('layouts.default')
+@section('content')
+    <h1>主页</h1>
+@stop
