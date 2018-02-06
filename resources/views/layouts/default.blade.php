@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/css/app.css" rel="stylesheet">
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
     @include('layouts._header')
@@ -19,5 +17,6 @@
         </div>
     </div>
 
+    <script src="/js/app.js"></script>
 </body>
 </html>
